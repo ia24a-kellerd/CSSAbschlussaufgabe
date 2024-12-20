@@ -1,0 +1,51 @@
+img{
+    width: 200px;
+    height: auto;
+}
+
+body{
+    background-color: #1F2937;
+    color: white;
+    font-family: "Roboto Light";
+    font-size: 24px;
+}
+
+.text{
+    text-align: center;
+}
+
+.ordnung{
+    display: flex;
+    flex-direction: column;
+}
+
+.alles{
+    display: flex;
+    flex-direction: row;
+    gap: 200px;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+
+.unten{
+    display: flex;
+    flex-direction: row;
+    gap: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+.titel2{
+    padding-top: 100px;
+}
+
+.gap{
+    padding-top: 100px;
+}
+.virus{
+    height: auto;
+    width: 250px;
+}
